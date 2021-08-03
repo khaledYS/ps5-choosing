@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+td{
+    border: 4px solid #244;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+}
+.empty{
+    border: none;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+}
